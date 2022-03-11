@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WorkControlModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="WorkControlEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Program" EntityType="WorkControlModel.Program" />
+    <EntitySet Name="ProgramTime" EntityType="WorkControlModel.ProgramTime" />
+    <EntitySet Name="Roles" EntityType="WorkControlModel.Roles" />
+    <EntitySet Name="Stats" EntityType="WorkControlModel.Stats" />
+    <EntitySet Name="sysdiagrams" EntityType="WorkControlModel.sysdiagrams" />
+    <EntitySet Name="TimeProfiles" EntityType="WorkControlModel.TimeProfiles" />
+    <EntitySet Name="Users" EntityType="WorkControlModel.Users" />
+    <EntitySet Name="WorkWeeks" EntityType="WorkControlModel.WorkWeeks" />
+    <AssociationSet Name="FK_ProgramTime_Program" Association="WorkControlModel.FK_ProgramTime_Program">
+      <End Role="Program" EntitySet="Program" />
+      <End Role="ProgramTime" EntitySet="ProgramTime" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProgramTime_Statistics" Association="WorkControlModel.FK_ProgramTime_Statistics">
+      <End Role="Stats" EntitySet="Stats" />
+      <End Role="ProgramTime" EntitySet="ProgramTime" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Users_Roles" Association="WorkControlModel.FK_Users_Roles">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Statistics_Users" Association="WorkControlModel.FK_Statistics_Users">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="Stats" EntitySet="Stats" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkWeeks_TimeProfiles" Association="WorkControlModel.FK_WorkWeeks_TimeProfiles">
+      <End Role="TimeProfiles" EntitySet="TimeProfiles" />
+      <End Role="WorkWeeks" EntitySet="WorkWeeks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkWeeks_TimeProfiles1" Association="WorkControlModel.FK_WorkWeeks_TimeProfiles1">
+      <End Role="TimeProfiles" EntitySet="TimeProfiles" />
+      <End Role="WorkWeeks" EntitySet="WorkWeeks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkWeeks_TimeProfiles2" Association="WorkControlModel.FK_WorkWeeks_TimeProfiles2">
+      <End Role="TimeProfiles" EntitySet="TimeProfiles" />
+      <End Role="WorkWeeks" EntitySet="WorkWeeks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkWeeks_TimeProfiles3" Association="WorkControlModel.FK_WorkWeeks_TimeProfiles3">
+      <End Role="TimeProfiles" EntitySet="TimeProfiles" />
+      <End Role="WorkWeeks" EntitySet="WorkWeeks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkWeeks_TimeProfiles4" Association="WorkControlModel.FK_WorkWeeks_TimeProfiles4">
+      <End Role="TimeProfiles" EntitySet="TimeProfiles" />
+      <End Role="WorkWeeks" EntitySet="WorkWeeks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkWeeks_TimeProfiles5" Association="WorkControlModel.FK_WorkWeeks_TimeProfiles5">
+      <End Role="TimeProfiles" EntitySet="TimeProfiles" />
+      <End Role="WorkWeeks" EntitySet="WorkWeeks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WorkWeeks_TimeProfiles6" Association="WorkControlModel.FK_WorkWeeks_TimeProfiles6">
+      <End Role="TimeProfiles" EntitySet="TimeProfiles" />
+      <End Role="WorkWeeks" EntitySet="WorkWeeks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Users_WorkWeeks" Association="WorkControlModel.FK_Users_WorkWeeks">
+      <End Role="WorkWeeks" EntitySet="WorkWeeks" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Program">
+    <Key>
+      <PropertyRef Name="ProgramId" />
+    </Key>
+    <Property Name="ProgramId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="ProgramTime" Relationship="WorkControlModel.FK_ProgramTime_Program" FromRole="Program" ToRole="ProgramTime" />
+  </EntityType>
+  <EntityType Name="ProgramTime">
+    <Key>
+      <PropertyRef Name="ProgramTimeId" />
+    </Key>
+    <Property Name="ProgramTimeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProgramId" Type="Int32" Nullable="false" />
+    <Property Name="StatsId" Type="Int32" Nullable="false" />
+    <Property Name="Time" Type="Int32" />
+    <NavigationProperty Name="Program" Relationship="WorkControlModel.FK_ProgramTime_Program" FromRole="ProgramTime" ToRole="Program" />
+    <NavigationProperty Name="Stats" Relationship="WorkControlModel.FK_ProgramTime_Statistics" FromRole="ProgramTime" ToRole="Stats" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Users" Relationship="WorkControlModel.FK_Users_Roles" FromRole="Roles" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Stats">
+    <Key>
+      <PropertyRef Name="StatcsId" />
+    </Key>
+    <Property Name="StatcsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="StartDate" Type="DateTime" Precision="3" />
+    <Property Name="EndDate" Type="DateTime" Precision="3" />
+    <Property Name="LunchTime" Type="Time" Precision="7" />
+    <NavigationProperty Name="ProgramTime" Relationship="WorkControlModel.FK_ProgramTime_Statistics" FromRole="Stats" ToRole="ProgramTime" />
+    <NavigationProperty Name="Users" Relationship="WorkControlModel.FK_Statistics_Users" FromRole="Stats" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TimeProfiles">
+    <Key>
+      <PropertyRef Name="TimeProfileId" />
+    </Key>
+    <Property Name="TimeProfileId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameOfProfile" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LanchTime" Type="Time" Precision="7" />
+    <Property Name="StartWorkTime" Type="Time" Precision="7" />
+    <Property Name="EndWorkTime" Type="Time" Precision="7" />
+    <NavigationProperty Name="WorkWeeks" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles" FromRole="TimeProfiles" ToRole="WorkWeeks" />
+    <NavigationProperty Name="WorkWeeks1" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles1" FromRole="TimeProfiles" ToRole="WorkWeeks" />
+    <NavigationProperty Name="WorkWeeks2" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles2" FromRole="TimeProfiles" ToRole="WorkWeeks" />
+    <NavigationProperty Name="WorkWeeks3" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles3" FromRole="TimeProfiles" ToRole="WorkWeeks" />
+    <NavigationProperty Name="WorkWeeks4" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles4" FromRole="TimeProfiles" ToRole="WorkWeeks" />
+    <NavigationProperty Name="WorkWeeks5" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles5" FromRole="TimeProfiles" ToRole="WorkWeeks" />
+    <NavigationProperty Name="WorkWeeks6" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles6" FromRole="TimeProfiles" ToRole="WorkWeeks" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleId" Type="Int32" />
+    <Property Name="WorkWeekId" Type="Int32" />
+    <Property Name="SecondName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="WorkPost" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Roles" Relationship="WorkControlModel.FK_Users_Roles" FromRole="Users" ToRole="Roles" />
+    <NavigationProperty Name="Stats" Relationship="WorkControlModel.FK_Statistics_Users" FromRole="Users" ToRole="Stats" />
+    <NavigationProperty Name="WorkWeeks" Relationship="WorkControlModel.FK_Users_WorkWeeks" FromRole="Users" ToRole="WorkWeeks" />
+  </EntityType>
+  <EntityType Name="WorkWeeks">
+    <Key>
+      <PropertyRef Name="WorkWeekId" />
+    </Key>
+    <Property Name="WorkWeekId" Type="Int32" Nullable="false" />
+    <Property Name="Monday" Type="Int32" />
+    <Property Name="Tuesday" Type="Int32" />
+    <Property Name="Wednesday" Type="Int32" />
+    <Property Name="Thursday" Type="Int32" />
+    <Property Name="Friday" Type="Int32" />
+    <Property Name="Saturday" Type="Int32" />
+    <Property Name="Sunday" Type="Int32" />
+    <Property Name="NameOfWeek" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TimeProfiles" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles" FromRole="WorkWeeks" ToRole="TimeProfiles" />
+    <NavigationProperty Name="TimeProfiles1" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles1" FromRole="WorkWeeks" ToRole="TimeProfiles" />
+    <NavigationProperty Name="TimeProfiles2" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles2" FromRole="WorkWeeks" ToRole="TimeProfiles" />
+    <NavigationProperty Name="TimeProfiles3" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles3" FromRole="WorkWeeks" ToRole="TimeProfiles" />
+    <NavigationProperty Name="TimeProfiles4" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles4" FromRole="WorkWeeks" ToRole="TimeProfiles" />
+    <NavigationProperty Name="TimeProfiles5" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles5" FromRole="WorkWeeks" ToRole="TimeProfiles" />
+    <NavigationProperty Name="TimeProfiles6" Relationship="WorkControlModel.FK_WorkWeeks_TimeProfiles6" FromRole="WorkWeeks" ToRole="TimeProfiles" />
+    <NavigationProperty Name="Users" Relationship="WorkControlModel.FK_Users_WorkWeeks" FromRole="WorkWeeks" ToRole="Users" />
+  </EntityType>
+  <Association Name="FK_ProgramTime_Program">
+    <End Type="WorkControlModel.Program" Role="Program" Multiplicity="1" />
+    <End Type="WorkControlModel.ProgramTime" Role="ProgramTime" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Program">
+        <PropertyRef Name="ProgramId" />
+      </Principal>
+      <Dependent Role="ProgramTime">
+        <PropertyRef Name="ProgramId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProgramTime_Statistics">
+    <End Type="WorkControlModel.Stats" Role="Stats" Multiplicity="1" />
+    <End Type="WorkControlModel.ProgramTime" Role="ProgramTime" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stats">
+        <PropertyRef Name="StatcsId" />
+      </Principal>
+      <Dependent Role="ProgramTime">
+        <PropertyRef Name="StatsId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Users_Roles">
+    <End Type="WorkControlModel.Roles" Role="Roles" Multiplicity="0..1" />
+    <End Type="WorkControlModel.Users" Role="Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Statistics_Users">
+    <End Type="WorkControlModel.Users" Role="Users" Multiplicity="0..1" />
+    <End Type="WorkControlModel.Stats" Role="Stats" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Stats">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkWeeks_TimeProfiles">
+    <End Type="WorkControlModel.TimeProfiles" Role="TimeProfiles" Multiplicity="0..1" />
+    <End Type="WorkControlModel.WorkWeeks" Role="WorkWeeks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TimeProfiles">
+        <PropertyRef Name="TimeProfileId" />
+      </Principal>
+      <Dependent Role="WorkWeeks">
+        <PropertyRef Name="Monday" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkWeeks_TimeProfiles1">
+    <End Type="WorkControlModel.TimeProfiles" Role="TimeProfiles" Multiplicity="0..1" />
+    <End Type="WorkControlModel.WorkWeeks" Role="WorkWeeks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TimeProfiles">
+        <PropertyRef Name="TimeProfileId" />
+      </Principal>
+      <Dependent Role="WorkWeeks">
+        <PropertyRef Name="Tuesday" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkWeeks_TimeProfiles2">
+    <End Type="WorkControlModel.TimeProfiles" Role="TimeProfiles" Multiplicity="0..1" />
+    <End Type="WorkControlModel.WorkWeeks" Role="WorkWeeks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TimeProfiles">
+        <PropertyRef Name="TimeProfileId" />
+      </Principal>
+      <Dependent Role="WorkWeeks">
+        <PropertyRef Name="Wednesday" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkWeeks_TimeProfiles3">
+    <End Type="WorkControlModel.TimeProfiles" Role="TimeProfiles" Multiplicity="0..1" />
+    <End Type="WorkControlModel.WorkWeeks" Role="WorkWeeks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TimeProfiles">
+        <PropertyRef Name="TimeProfileId" />
+      </Principal>
+      <Dependent Role="WorkWeeks">
+        <PropertyRef Name="Thursday" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkWeeks_TimeProfiles4">
+    <End Type="WorkControlModel.TimeProfiles" Role="TimeProfiles" Multiplicity="0..1" />
+    <End Type="WorkControlModel.WorkWeeks" Role="WorkWeeks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TimeProfiles">
+        <PropertyRef Name="TimeProfileId" />
+      </Principal>
+      <Dependent Role="WorkWeeks">
+        <PropertyRef Name="Friday" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkWeeks_TimeProfiles5">
+    <End Type="WorkControlModel.TimeProfiles" Role="TimeProfiles" Multiplicity="0..1" />
+    <End Type="WorkControlModel.WorkWeeks" Role="WorkWeeks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TimeProfiles">
+        <PropertyRef Name="TimeProfileId" />
+      </Principal>
+      <Dependent Role="WorkWeeks">
+        <PropertyRef Name="Saturday" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WorkWeeks_TimeProfiles6">
+    <End Type="WorkControlModel.TimeProfiles" Role="TimeProfiles" Multiplicity="0..1" />
+    <End Type="WorkControlModel.WorkWeeks" Role="WorkWeeks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TimeProfiles">
+        <PropertyRef Name="TimeProfileId" />
+      </Principal>
+      <Dependent Role="WorkWeeks">
+        <PropertyRef Name="Sunday" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Users_WorkWeeks">
+    <End Type="WorkControlModel.WorkWeeks" Role="WorkWeeks" Multiplicity="0..1" />
+    <End Type="WorkControlModel.Users" Role="Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="WorkWeeks">
+        <PropertyRef Name="WorkWeekId" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="WorkWeekId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

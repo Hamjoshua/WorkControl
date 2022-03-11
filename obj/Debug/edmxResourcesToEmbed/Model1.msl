@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище WorkControlModelContainer" CdmEntityContainer="WorkControlEntities">
+    <EntitySetMapping Name="Program">
+      <EntityTypeMapping TypeName="WorkControlModel.Program">
+        <MappingFragment StoreEntitySet="Program">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ProgramId" ColumnName="ProgramId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProgramTime">
+      <EntityTypeMapping TypeName="WorkControlModel.ProgramTime">
+        <MappingFragment StoreEntitySet="ProgramTime">
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="StatsId" ColumnName="StatsId" />
+          <ScalarProperty Name="ProgramId" ColumnName="ProgramId" />
+          <ScalarProperty Name="ProgramTimeId" ColumnName="ProgramTimeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="WorkControlModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stats">
+      <EntityTypeMapping TypeName="WorkControlModel.Stats">
+        <MappingFragment StoreEntitySet="Stats">
+          <ScalarProperty Name="LunchTime" ColumnName="LunchTime" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="StatcsId" ColumnName="StatcsId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="WorkControlModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TimeProfiles">
+      <EntityTypeMapping TypeName="WorkControlModel.TimeProfiles">
+        <MappingFragment StoreEntitySet="TimeProfiles">
+          <ScalarProperty Name="EndWorkTime" ColumnName="EndWorkTime" />
+          <ScalarProperty Name="StartWorkTime" ColumnName="StartWorkTime" />
+          <ScalarProperty Name="LanchTime" ColumnName="LanchTime" />
+          <ScalarProperty Name="NameOfProfile" ColumnName="NameOfProfile" />
+          <ScalarProperty Name="TimeProfileId" ColumnName="TimeProfileId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="WorkControlModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="WorkPost" ColumnName="WorkPost" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="SecondName" ColumnName="SecondName" />
+          <ScalarProperty Name="WorkWeekId" ColumnName="WorkWeekId" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WorkWeeks">
+      <EntityTypeMapping TypeName="WorkControlModel.WorkWeeks">
+        <MappingFragment StoreEntitySet="WorkWeeks">
+          <ScalarProperty Name="NameOfWeek" ColumnName="NameOfWeek" />
+          <ScalarProperty Name="Sunday" ColumnName="Sunday" />
+          <ScalarProperty Name="Saturday" ColumnName="Saturday" />
+          <ScalarProperty Name="Friday" ColumnName="Friday" />
+          <ScalarProperty Name="Thursday" ColumnName="Thursday" />
+          <ScalarProperty Name="Wednesday" ColumnName="Wednesday" />
+          <ScalarProperty Name="Tuesday" ColumnName="Tuesday" />
+          <ScalarProperty Name="Monday" ColumnName="Monday" />
+          <ScalarProperty Name="WorkWeekId" ColumnName="WorkWeekId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

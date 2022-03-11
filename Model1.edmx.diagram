@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f5795a2021d14d4d89d0cbe423bb6d1e" Name="Diagram1">
+        <EntityTypeShape EntityType="WorkControlModel.Program" Width="1.5" PointX="7.5" PointY="0.75" />
+        <EntityTypeShape EntityType="WorkControlModel.ProgramTime" Width="1.5" PointX="9.75" PointY="3.5" />
+        <EntityTypeShape EntityType="WorkControlModel.Roles" Width="1.5" PointX="3" PointY="8.75" />
+        <EntityTypeShape EntityType="WorkControlModel.Stats" Width="1.5" PointX="7.5" PointY="3.375" />
+        <EntityTypeShape EntityType="WorkControlModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="7.125" />
+        <EntityTypeShape EntityType="WorkControlModel.TimeProfiles" Width="1.5" PointX="0.75" PointY="2.875" />
+        <EntityTypeShape EntityType="WorkControlModel.Users" Width="1.5" PointX="5.25" PointY="2.875" />
+        <EntityTypeShape EntityType="WorkControlModel.WorkWeeks" Width="1.5" PointX="3" PointY="2.375" />
+        <AssociationConnector Association="WorkControlModel.FK_ProgramTime_Program" />
+        <AssociationConnector Association="WorkControlModel.FK_ProgramTime_Statistics" />
+        <AssociationConnector Association="WorkControlModel.FK_Users_Roles" />
+        <AssociationConnector Association="WorkControlModel.FK_Statistics_Users" />
+        <AssociationConnector Association="WorkControlModel.FK_WorkWeeks_TimeProfiles" />
+        <AssociationConnector Association="WorkControlModel.FK_WorkWeeks_TimeProfiles1" />
+        <AssociationConnector Association="WorkControlModel.FK_WorkWeeks_TimeProfiles2" />
+        <AssociationConnector Association="WorkControlModel.FK_WorkWeeks_TimeProfiles3" />
+        <AssociationConnector Association="WorkControlModel.FK_WorkWeeks_TimeProfiles4" />
+        <AssociationConnector Association="WorkControlModel.FK_WorkWeeks_TimeProfiles5" />
+        <AssociationConnector Association="WorkControlModel.FK_WorkWeeks_TimeProfiles6" />
+        <AssociationConnector Association="WorkControlModel.FK_Users_WorkWeeks" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

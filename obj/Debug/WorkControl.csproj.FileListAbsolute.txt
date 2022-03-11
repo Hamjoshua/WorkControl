@@ -1,0 +1,489 @@
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\App.g.cs
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\Login.g.cs
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\Login.baml
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\biryu\source\repos\WorkControl\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biryu\source\repos\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\Login.g.cs
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\App.g.cs
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\Login.baml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CopyComplete
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\App.baml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\Registration.g.cs
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\Registration.baml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\Сhangingdata.g.cs
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\Statistics.baml
+C:\Users\aaskr\Desktop\Новая папка (2)\WorkControl\WorkControl\obj\Debug\Сhangingdata.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Login.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Registration.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Сhangingdata.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\App.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\App.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Login.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Registration.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Statistics.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Сhangingdata.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\GraphBar.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\GraphBar.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\GraphBar.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Login.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Registration.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Сhangingdata.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\App.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\App.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\GraphBar.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Login.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Registration.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Statistics.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Сhangingdata.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CopyComplete
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Graphlunch.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\Прога с внешним видом\WorkControl\WorkControl\obj\Debug\Graphlunch.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\LiveCharts.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\LiveCharts.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\LiveCharts.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\GraphBar.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Graphlunch.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Login.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Registration.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Сhangingdata.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\App.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\App.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\GraphBar.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Graphlunch.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Login.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Registration.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Statistics.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\Сhangingdata.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\LiveCharts.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\LiveCharts.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\LiveCharts.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\GraphBar.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Graphlunch.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Login.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Registration.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Сhangingdata.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\App.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\App.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\GraphBar.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Graphlunch.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Login.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Registration.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Statistics.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\Сhangingdata.baml
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.csproj.CopyComplete
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\aaskr\Desktop\Правка внешнего вида\14 февраля\WorkControl\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\GraphBar.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\Graphlunch.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\Login.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\App.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\App.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\GraphBar.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\Graphlunch.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\Login.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\Statistics.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\AdminMainPage.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\AdminMainPage.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\ChangingDataPage.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\ChangingDataPage.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\RegistrationPage.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\Марк для тебя-\WorkControl (1)\WorkControl\obj\Debug\RegistrationPage.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.pdb
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.xml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\AdminMainPage.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\ChangingDataPage.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\GraphBar.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\Graphlunch.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\Login.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\RegistrationPage.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\App.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\App.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\AdminMainPage.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\ChangingDataPage.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\GraphBar.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\Graphlunch.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\Login.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\RegistrationPage.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\Statistics.baml
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.CopyComplete
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\aaskr\Desktop\WorkControl (1)\WorkControl (1)\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\AdminMainPage.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\ChangingDataPage.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\GraphBar.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\Graphlunch.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\Login.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\RegistrationPage.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\App.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\App.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\AdminMainPage.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\ChangingDataPage.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\GraphBar.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\Graphlunch.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\Login.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\RegistrationPage.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\Statistics.baml
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.pdb
+C:\Users\biryu\YandexDisk\ПРАКТИКА 2022 ФЕВРАЛЬ\Прога\16.02.2022(версия финальная, без приколов. Со всем функционалом)-\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.CopyComplete
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\WorkControl.exe.config
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\WorkControl.exe
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\WorkControl.pdb
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.dll
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.dll
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignColors.dll
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.xml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.pdb
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.xml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignColors.pdb
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.AssemblyReference.cache
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\AdminMainPage.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\AdminPanel.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\ChangingDataPage.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\GraphBar.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\Graphlunch.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\Login.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\MainWindow.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\RegistrationPage.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\Statistics.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\App.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl_Content.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl_MarkupCompile.cache
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl_MarkupCompile.lref
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\App.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\AdminMainPage.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\AdminPanel.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\ChangingDataPage.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\GraphBar.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\Graphlunch.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\Login.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\MainWindow.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\RegistrationPage.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\Statistics.baml
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl.g.resources
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl.Properties.Resources.resources
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.GenerateResource.cache
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl.csproj.CoreCompileInputs.cache
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl.exe
+C:\Users\biryu\source\repos\WorkControl (1)\WorkControl\obj\Debug\WorkControl.pdb
