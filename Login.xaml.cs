@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using WorkControl.ModelMethods;
+using WorkControl.AutoUpdate;
+using WorkControl.UpdateForm;
 
 namespace WorkControl
 {
@@ -22,6 +24,12 @@ namespace WorkControl
     {
         public Login()
         {
+            Updater.GitHubRepo = "/Hamjoshua/WorkControl";
+            string[] args = new string[] { };
+            if(Properties.Settings.Default.AutoRestore)
+                Restore();
+            if(Properties.Settings.Default.NotifyAboutUpdate)
+                Update();
             InitializeComponent();
         }
 
@@ -44,7 +52,7 @@ namespace WorkControl
             {
                 Users user = UserMethods.getUserFromLoginData(loginText, passwordText, new WorkControlEntities());
                 if (user != null)
-                {                    
+                {
                     if (user.Roles.Name == "Сотрудник")
                     {
                         if (TimeProfileMethods.isHoliday(TimeProfileMethods.getTimeProfileFromWorkWeek(user.WorkWeeks)))
@@ -99,6 +107,43 @@ namespace WorkControl
         private void backward_Click(object sender, RoutedEventArgs e)
         {
             this.WindowState = WindowState.Minimized;
+        }
+        
+        private void Update()
+        {
+            if (Updater.HasUpdate)
+            {
+                string currentVersion = System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
+
+                if (MessageBox.Show($"Доступно обновление.\nНовая версия:{Updater.LatestVersion}" +
+                    $"\nТекущая версия: {currentVersion}\nХотите установить?", "Внимание",
+                    MessageBoxButton.YesNoCancel, MessageBoxImage.Information) == MessageBoxResult.Yes)
+                {
+                    Updater.Update();
+                    Application.Current.Shutdown();
+                }
+            }
+            Updater.cleanUpdateFiles();
+        }
+
+        private void Restore()
+        {
+            if (Updater.CheckForRestore())
+            {
+                if (MessageBox.Show("Отсутствуют некоторые файлы, это может повлять на работу программы." +
+                    "Сейчас будет запущено восстановление", "Внимание",
+                    MessageBoxButton.OK, MessageBoxImage.Warning) == MessageBoxResult.OK)
+                {
+                    Updater.Restore();
+                    Application.Current.Shutdown();
+                }
+            }            
+        }
+
+        private void settingsBtn_Click(object sender, RoutedEventArgs e)
+        {
+            SettingsWindow settingsWindow = new SettingsWindow();
+            settingsWindow.Show();
         }
     }
 }

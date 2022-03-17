@@ -132,8 +132,7 @@ namespace WorkControl
                     {
                         return;
                     };
-                }
-                TimeProfileMethods.removeTimeProfile(tp_id, db);
+                }                
                 RefreshTimeProfilesComboBox();
             }
         }

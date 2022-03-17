@@ -37,12 +37,15 @@
         <Button x:Name="loginButton" Content="Войти" Width="150" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,364,0,0"  Click="loginButton_Click"/>
         <Grid x:Name="GridBarraTitulo" Background="#FF34268A"  MouseDown="GridBarraTitulo_MouseDown" Margin="0,0,0,470">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,0">
+                <Button Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" x:Name="settingsBtn" Click="settingsBtn_Click">
+                    <materialDesign:PackIcon Kind="Settings"/>
+                </Button>
                 <Button Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="backward_Click">
                     <materialDesign:PackIcon Kind="minus"/>
                 </Button>
                 <Button Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White">
-                        <materialDesign:PackIcon Kind="User"/>
-                    </Button>
+                    <materialDesign:PackIcon Kind="User"/>
+                </Button>
                 <Button x:Name="ButtonFechar" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="ButtonFechar_Click">
                     <materialDesign:PackIcon Kind="Power"/>
                 </Button>

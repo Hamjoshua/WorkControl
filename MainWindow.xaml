@@ -11,19 +11,13 @@
 
     <Window.Resources>
         <LinearGradientBrush x:Key="goOnLanch" EndPoint="0.5,1" StartPoint="0.5,0">
-            <GradientStop Color="#FFB69292" Offset="0"/>
             <GradientStop Color="#FF00FF23" Offset="1"/>
-            <GradientStop Color="#FF92B390" Offset="0.012"/>
         </LinearGradientBrush>
         <LinearGradientBrush x:Key="backFromLanch" EndPoint="0.5,1" StartPoint="0.5,0">
-            <GradientStop Color="#FFB69292" Offset="0"/>
             <GradientStop Color="Red" Offset="1"/>
-            <GradientStop Color="#FFB39090" Offset="0.012"/>
         </LinearGradientBrush>
         <LinearGradientBrush x:Key="noLanch" EndPoint="0.5,1" StartPoint="0.5,0">
-            <GradientStop Color="#FFB69292" Offset="0"/>
             <GradientStop Color="#FF858585" Offset="1"/>
-            <GradientStop Color="#FF909EB3" Offset="0.012"/>
         </LinearGradientBrush>
     </Window.Resources>
 
@@ -38,7 +32,7 @@
             </Rectangle.Fill>
         </Rectangle>
         <Button x:Name="goToLanch" Content="Уйти на обед" HorizontalAlignment="Left"
-                Margin="700,44,0,0" VerticalAlignment="Top" Width="170" Height="36" Click="goToLanch_Click" Foreground="Black" Background="{DynamicResource goOnLanch}" Cursor="Hand"/>
+                Margin="663,148,0,0" VerticalAlignment="Top" Width="170" Height="36" Click="goToLanch_Click" Foreground="Black" Style="{StaticResource MaterialDesignPaperButton}"  Background="{DynamicResource goOnLanch}"  Cursor="Hand" BorderBrush="#001D1E1F"/>
 
         <Grid x:Name="GridBarraTitulo" Background="#FF34268A"  MouseDown="GridBarraTitulo_MouseDown" Margin="0,0,0,420" Grid.ColumnSpan="2">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,0">

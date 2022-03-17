@@ -1,12 +1,14 @@
 ﻿
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\App.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\AdminMainPage.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\AdminPanel.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\ChangingDataPage.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\GraphBar.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\Graphlunch.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\Login.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\MainWindow.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\RegistrationPage.xaml;;
-FC:\Users\biryu\source\repos\WorkControl (1)\WorkControl\Statistics.xaml;;
+FE:\Repos\WorkControl\WorkControl\App.xaml;;
+FE:\Repos\WorkControl\WorkControl\AdminMainPage.xaml;;
+FE:\Repos\WorkControl\WorkControl\AdminPanel.xaml;;
+FE:\Repos\WorkControl\WorkControl\ChangingDataPage.xaml;;
+FE:\Repos\WorkControl\WorkControl\GraphBar.xaml;;
+FE:\Repos\WorkControl\WorkControl\Graphlunch.xaml;;
+FE:\Repos\WorkControl\WorkControl\Login.xaml;;
+FE:\Repos\WorkControl\WorkControl\MainWindow.xaml;;
+FE:\Repos\WorkControl\WorkControl\RegistrationPage.xaml;;
+FE:\Repos\WorkControl\WorkControl\Statistics.xaml;;
+FE:\Repos\WorkControl\WorkControl\UpdateForm\UpdatePage.xaml;;
+FE:\Repos\WorkControl\WorkControl\SettingsWindow.xaml;;
 

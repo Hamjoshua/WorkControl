@@ -107,11 +107,12 @@ namespace WorkControl.ModelMethods
             return new List<string>();
         }
 
-        public static bool removeTimeProfile(int tp_id, WorkControlEntities db)
+        public static Exception removeTimeProfile(int tp_id, WorkControlEntities db)
         {
             try
             {
-                TimeProfiles tp = db.TimeProfiles.Where(t => t.TimeProfileId == tp_id).FirstOrDefault();
+                //throw new Exception();
+                TimeProfiles tp = db.TimeProfiles.Where(t => t.TimeProfileId == 666).First();
 
                 var workWeeks = db.WorkWeeks.Where(week =>
                     week.Monday == tp.TimeProfileId
@@ -140,13 +141,13 @@ namespace WorkControl.ModelMethods
                         week.Sunday = null;
                 }
                 db.TimeProfiles.Remove(tp);
-                db.SaveChanges();
-                return true;
+                db.SaveChanges();                
+                return null;
 
             }
             catch (Exception e)
             {
-                return false;
+                return e;
             }
         }
     }
