@@ -1,0 +1,55 @@
+﻿<Page x:Class="WorkControl.RegistrationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WorkControl"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RegistrationPage">
+
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="361" Margin="222,64,0,0" VerticalAlignment="Top" Width="548" Background="#FFA3BBBD">
+            <Grid.ColumnDefinitions>
+
+
+                <ColumnDefinition Width="58*"/>
+                <ColumnDefinition Width="79*"/>
+
+
+            </Grid.ColumnDefinitions>
+
+            <StackPanel VerticalAlignment="Top" Margin="10,22,298,0" Height="40" Grid.ColumnSpan="2">
+                <TextBox x:Name="secondNameTextBox" materialDesign:HintAssist.Hint="Фамилия"  Style="{StaticResource MaterialDesignFloatingHintTextBox}"   Background="White" Width="228"/>
+            </StackPanel >
+            <StackPanel VerticalAlignment="Top" Margin="63.24,22,5,0" Height="40" Grid.Column="1">
+                <ComboBox x:Name="rolesComboBox"  materialDesign:HintAssist.Hint="Роль" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Width="228" Padding="0,10,0,0" Margin="6,0"/>
+
+            </StackPanel >
+            <StackPanel VerticalAlignment="Top" Margin="10,78,298,0" Height="40" Grid.ColumnSpan="2">
+                <TextBox x:Name="nameTextBox" materialDesign:HintAssist.Hint="Имя"   Style="{StaticResource MaterialDesignFloatingHintTextBox}"   Background="White" Width="228" Cursor="IBeam"/>
+            </StackPanel >
+            <StackPanel VerticalAlignment="Top" Margin="10,145,298,0" Height="40" Grid.ColumnSpan="2">
+                <TextBox x:Name="lastNameTextBox"  materialDesign:HintAssist.Hint="Отчество" Style="{StaticResource MaterialDesignFloatingHintTextBox}"    Background="White" Width="228" Margin="6,0"/>
+
+            </StackPanel>
+
+
+
+            <StackPanel VerticalAlignment="Top" Margin="63.24,78,5,0" Height="40" Grid.Column="1" >
+                <TextBox x:Name="workPostTextBox" materialDesign:HintAssist.Hint="Должность" Style="{StaticResource MaterialDesignFloatingHintTextBox}"  Background="White" Width="228"/>
+            </StackPanel>
+            <ComboBox x:Name="workWeekComboBox" materialDesign:HintAssist.Hint="Рабочая неделя" Style="{StaticResource MaterialDesignFloatingHintComboBox}"  Margin="16,202,304,109" Background="White" Padding="0,10,0,0" ScrollViewer.CanContentScroll="False" Grid.ColumnSpan="2"/>
+
+            <TextBox x:Name="loginNameTextBox" materialDesign:HintAssist.Hint="Логин"   Style="{StaticResource MaterialDesignFloatingHintTextBox}"  HorizontalAlignment="Left"  Margin="73.24,145,0,0"   VerticalAlignment="Top" Background="White" Width="228" Grid.Column="1"/>
+
+            <Button x:Name="generatePasswordButton" Content="Новый пароль" HorizontalAlignment="Left" Margin="99.24,279,0,0" VerticalAlignment="Top" Width="156" Height="37" Click="generatePasswordButton_Click" Grid.Column="1"/>
+            <TextBox x:Name="passwordNameTextBox"  materialDesign:HintAssist.Hint="Пароль"   Style="{StaticResource MaterialDesignFloatingHintTextBox}" TextWrapping="Wrap"   VerticalAlignment="Top" Background="White" Width="228"  Margin="73.24,215,15,0" IsReadOnly="True" Cursor="IBeam" Grid.Column="1"/>
+        </Grid>
+        <Button x:Name="registerButton" Content="Зарегистрироваться" HorizontalAlignment="Left" Margin="363,397,0,0" VerticalAlignment="Top" Width="192" Click="registerButton_Click" Height="45" Cursor="Hand"/>
+        <Grid HorizontalAlignment="Left" Height="28" Margin="330,51,0,0" VerticalAlignment="Top" Width="359" Background="White">
+            <Label Content="Регистрация" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</Page>

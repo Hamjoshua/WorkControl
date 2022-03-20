@@ -1,0 +1,79 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorkControl"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:Basic_Bars="clr-namespace:Wpf.CartesianChart.Basic_Bars" x:Class="WorkControl.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Window.Resources>
+        <LinearGradientBrush x:Key="goOnLanch" EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFB69292" Offset="0"/>
+            <GradientStop Color="#FF00FF23" Offset="1"/>
+            <GradientStop Color="#FF92B390" Offset="0.012"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="backFromLanch" EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFB69292" Offset="0"/>
+            <GradientStop Color="Red" Offset="1"/>
+            <GradientStop Color="#FFB39090" Offset="0.012"/>
+        </LinearGradientBrush>
+        <LinearGradientBrush x:Key="noLanch" EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFB69292" Offset="0"/>
+            <GradientStop Color="#FF858585" Offset="1"/>
+            <GradientStop Color="#FF909EB3" Offset="0.012"/>
+        </LinearGradientBrush>
+    </Window.Resources>
+
+    <Grid>
+        <Rectangle Height ="450" VerticalAlignment="Center">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2281D1"/>
+                    <GradientStop Color="#FF34268A" Offset="1"/>
+                    <GradientStop Color="#FF33288B" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="goToLanch" Content="Уйти на обед" HorizontalAlignment="Left"
+                Margin="610,67,0,0" VerticalAlignment="Top" Width="170" Height="36" Click="goToLanch_Click" Foreground="Black" Background="{DynamicResource goOnLanch}" Cursor="Hand"/>
+
+        <Grid x:Name="GridBarraTitulo" Background="#FF34268A"  MouseDown="GridBarraTitulo_MouseDown" Margin="0,0,0,420" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,0">
+                <Button Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="backward_Click"  Cursor="Hand">
+                    <materialDesign:PackIcon Kind="UndoVariant"/>
+                </Button>
+                <Button Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="Button_Click">
+                    <materialDesign:PackIcon Kind="User"/>
+                </Button>
+                <Button x:Name="ButtonFechar" Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="ButtonFechar_Click" Cursor="Hand">
+                    <materialDesign:PackIcon Kind="Power"/>
+                </Button>
+            </StackPanel>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="230" Margin="215,210,0,0" VerticalAlignment="Top" Width="519" Background="#FFD5D8D8">
+            <TextBox x:Name="Michael" HorizontalAlignment="Center" Margin="-182,25,563,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" Height="195" Background="White" />
+            <materialDesign:Snackbar HorizontalAlignment="Left" Height="100" Margin="174,80,0,0" VerticalAlignment="Top"/>
+            <Basic_Bars:BasicRowExample x:Name="progGraph" HorizontalAlignment="Left" Height="207" Margin="10,13,0,0" VerticalAlignment="Top" Width="499"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="140" Margin="10,44,0,0" VerticalAlignment="Top" Width="464" Background="#FFD5D8D8">
+            <Label Content="Конец рабочего дня" HorizontalAlignment="Left" Margin="13,93,0,0" VerticalAlignment="Top"/>
+            <Label Content="Начало рабочего дня" HorizontalAlignment="Left" Margin="10,53,0,0" VerticalAlignment="Top"/>
+            <Label Content="Теория" HorizontalAlignment="Left" Margin="147,24,0,0" VerticalAlignment="Top"/>
+            <Label Content="Факт" HorizontalAlignment="Left" Margin="239,24,0,0" VerticalAlignment="Top"/>
+            <Label x:Name="theoryStartWork" Content="Label" HorizontalAlignment="Left" Margin="153,53,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.553,-0.231"/>
+            <Label x:Name="theoryEndWork" Content="Label" HorizontalAlignment="Left" Margin="153,93,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.553,-0.231"/>
+            <Label x:Name="factStartWork" Content="Label" HorizontalAlignment="Left" Margin="238,53,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.553,-0.231"/>
+            <Label x:Name="factEndWork" Content="Label" HorizontalAlignment="Left" Margin="238,93,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.553,-0.231"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="28" Margin="49,35,0,0" VerticalAlignment="Top" Width="359" Background="White">
+            <Label Content="График рабочего времени" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="28" Margin="304,197,0,0" VerticalAlignment="Top" Width="359" Background="White">
+            <Label Content="Показатели приложений и обеда" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+
+    </Grid>
+</Window>

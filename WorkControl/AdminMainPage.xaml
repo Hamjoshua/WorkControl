@@ -1,0 +1,48 @@
+﻿<Page x:Class="WorkControl.AdminMainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WorkControl"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdminMainPage">
+
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="361" Margin="493,60,0,0" VerticalAlignment="Top" Width="297" Background="#FFA3BBBD">
+            <StackPanel VerticalAlignment="Top" Margin="305,22,5,0" Height="40"/>
+            <materialDesign:TimePicker x:Name="startWorkTimePicker" Style="{StaticResource MaterialDesignFloatingHintTimePicker}" materialDesign:HintAssist.Hint="Начало рабочего времени" HorizontalAlignment="Left" Margin="34,181,0,0" VerticalAlignment="Top" Width="228" Is24Hours="True"/>
+            <materialDesign:TimePicker x:Name="endWorkTimePicker" Style="{StaticResource MaterialDesignFloatingHintTimePicker}" materialDesign:HintAssist.Hint="Конец рабочего времени" HorizontalAlignment="Left" Margin="34,218,0,0" VerticalAlignment="Top" Width="228" Is24Hours="True" Background="Black"/>
+            <materialDesign:TimePicker x:Name="lanchTimePicker" Style="{StaticResource MaterialDesignFloatingHintTimePicker}" materialDesign:HintAssist.Hint="Время на обед" HorizontalAlignment="Left" Margin="34,274,0,0" VerticalAlignment="Top" Width="228" Is24Hours="True"/>
+            <TextBox x:Name="nameOfProfileTextBox" materialDesign:HintAssist.Hint="Название временного профиля"  Style="{StaticResource MaterialDesignFloatingHintTextBox}"   Background="White" Width="228" Margin="14,116,15,200"/>
+            <ComboBox x:Name="timeProfilesComboBox"  materialDesign:HintAssist.Hint="Временной профиль" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Width="228" Margin="14,10,15,312" SelectionChanged="timeProfilesComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <Button x:Name="newTimeProfileButton" Click="newTimeProfileButton_Click" Content="Новый профиль" HorizontalAlignment="Center" Margin="0,54,0,0" VerticalAlignment="Top" Width="173" Height="37"/>
+            <Button x:Name="saveTimeProfileButton" Content="Сохранить профиль" HorizontalAlignment="Left" Margin="56,344,0,-20" VerticalAlignment="Top" Width="172" Height="37" Click="generatePasswordButton_Click"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="361" Margin="145,60,0,0" VerticalAlignment="Top" Width="325" Background="#FFA3BBBD">
+            <StackPanel VerticalAlignment="Top" Margin="305,22,5,0" Height="40"/>
+
+            <Button x:Name="saveWorkWeekButton" Content="Сохранить неделю" HorizontalAlignment="Left" Margin="75,345,0,-21" VerticalAlignment="Top" Width="173" Height="37" Click="saveWorkWeekButton_Click"/>
+            <ComboBox x:Name="workWeekComboBox" materialDesign:HintAssist.Hint="Рабочая неделя" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Margin="25,10,25,311" SelectionChanged="workWeekComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <Button x:Name="newWorkWeekButton" Click="newWorkWeekButton_Click" Content="Новая неделя" HorizontalAlignment="Center" Margin="0,55,0,0" VerticalAlignment="Top" Width="173" Height="37"/>
+            <ComboBox x:Name="pn_workWeekComboBox"  materialDesign:HintAssist.Hint="Понедельник" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Margin="25,177,168,141" SelectionChanged="timeProfilesComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <ComboBox x:Name="vt_workWeekComboBox"  materialDesign:HintAssist.Hint="Вторник" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Margin="25,214,168,105" SelectionChanged="timeProfilesComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <ComboBox x:Name="sr_workWeekComboBox"  materialDesign:HintAssist.Hint="Среда" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Margin="25,251,168,67" SelectionChanged="timeProfilesComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <ComboBox x:Name="cht_workWeekComboBox"  materialDesign:HintAssist.Hint="Четверг" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Margin="168,177,25,141" SelectionChanged="timeProfilesComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <ComboBox x:Name="pt_workWeekComboBox"  materialDesign:HintAssist.Hint="Пятница" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Margin="168,214,25,105" SelectionChanged="timeProfilesComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <ComboBox x:Name="sb_workWeekComboBox"  materialDesign:HintAssist.Hint="Суббота" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Margin="168,251,25,67" SelectionChanged="timeProfilesComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <ComboBox x:Name="vs_workWeekComboBox"  materialDesign:HintAssist.Hint="Воскресенье" Style="{StaticResource MaterialDesignFloatingHintComboBox}" Background="White" Margin="97,288,96,32" SelectionChanged="timeProfilesComboBox_SelectionChanged" Padding="0,10,0,0" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="nameOfWorkWeek" materialDesign:HintAssist.Hint="Название рабочей недели"  Style="{StaticResource MaterialDesignFloatingHintTextBox}"   Background="White" Margin="25,116,25,200"/>
+            <Button x:Name="removeWorkWeekButton" Content="X" HorizontalAlignment="Left" Margin="253,345,0,-21" VerticalAlignment="Top" Width="50" Height="37" Click="removeWorkWeekButton_Click" Background="#FFF32121" BorderBrush="#FFF32121"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="28" Margin="174,41,0,0" VerticalAlignment="Top" Width="268" Background="White">
+            <Label Content="Настройка рабочей недели" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+        <Grid HorizontalAlignment="Left" Height="28" Margin="523,41,0,0" VerticalAlignment="Top" Width="228" Background="White">
+            <Label Content="Настройка временного профиля" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Grid>
+        <Button x:Name="removeTimeProfileButton" Content="X" HorizontalAlignment="Left" Margin="725,404,0,0" VerticalAlignment="Top" Width="50" Height="37" Click="removeTimeProfileButton_Click" Background="#FFF32121" BorderBrush="#FFF32121"/>
+
+    </Grid>
+</Page>
