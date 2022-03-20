@@ -32,29 +32,6 @@ namespace WorkControl
             if(Properties.Settings.Default.NotifyAboutUpdate)
                 Update();
             InitializeComponent();         
-        }       
-
-        private void testMail()
-        {
-            // отправитель - устанавливаем адрес и отображаемое в письме имя
-            MailAddress from = new MailAddress("biryukov-10@list.ru", "Mark");
-            // кому отправляем
-            MailAddress to = new MailAddress("biryukov-10@list.ru");
-            // создаем объект сообщения
-            MailMessage m = new MailMessage(from, to);
-            // тема письма
-            m.Subject = "Тест";
-            // текст письма
-            m.Body = "<h2>Письмо-тест работы smtp-клиента</h2>";
-            // письмо представляет код html
-            m.IsBodyHtml = true;
-            // адрес smtp-сервера и порт, с которого будем отправлять письмо
-            SmtpClient smtp = new SmtpClient("smtp.mail.ru", 25);
-            // логин и пароль
-            smtp.Credentials = new NetworkCredential("biryukov-10@list.ru", "vHEEUj9aLs6LRmQez1sX");
-            smtp.EnableSsl = true;
-            smtp.Send(m);
-
         }
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
@@ -65,8 +42,7 @@ namespace WorkControl
         private void loginButton_Click(object sender, RoutedEventArgs e)
         {
             string loginText = login.Text;
-            string passwordText = password.Password;
-            throw new Exception();
+            string passwordText = password.Password;            
 
             if (string.IsNullOrEmpty(loginText) || string.IsNullOrEmpty(passwordText))
             {

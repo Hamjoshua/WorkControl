@@ -8,6 +8,16 @@
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         Title="SettingsWindow" Height="450" Width="400" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" >
     <Grid>
+        <Rectangle Height ="280" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF2281D1"/>
+                    <GradientStop Color="#FF34268A" Offset="1"/>
+                    <GradientStop Color="#FF33288B" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
         <Grid x:Name="GridBarraTitulo" Background="#FF34268A"  MouseDown="GridBarraTitulo_MouseDown" Margin="0,0,-0.4,413.2">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,0">
                 <Button Style="{StaticResource MaterialDesignFloatingActionMiniAccentButton}" Width="25" Height="25" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="backward_Click">
@@ -18,12 +28,21 @@
                 </Button>
             </StackPanel>
         </Grid>
-        <Label Content="Настройки приложения" HorizontalAlignment="Left" Margin="83,56,0,0" VerticalAlignment="Top" Width="228" FontSize="20"/>
-        <CheckBox x:Name="notifyAboutUpdateChb" Content="Уведомлять об обновлениях при &#10; запуске приложения" HorizontalAlignment="Left" Margin="10,133,0,0" VerticalAlignment="Top" FontSize="20" Height="62" Width="374" IsManipulationEnabled="True" Style="{StaticResource MaterialDesignUserForegroundCheckBox}" Click="notifyAboutUpdateChb_Checked"/>
-        <CheckBox x:Name="autoRestoreChb" Content="Проверять целостность файлов при &#10; запуске приложения" HorizontalAlignment="Left" Margin="10,200,0,0" VerticalAlignment="Top" FontSize="20" Height="62" Width="374" IsManipulationEnabled="True" Style="{StaticResource MaterialDesignUserForegroundCheckBox}" Click="autoRestoreChb_Checked"/>
-        <Label Content="Действия" HorizontalAlignment="Left" Margin="152,283,0,0" VerticalAlignment="Top" Width="92" FontSize="20"/>
-        <Button x:Name="checkForUpdateBtn" Click="checkForUpdateBtn_Click"  Content="Проверить наличие обновлений" HorizontalAlignment="Left" Margin="10,328,0,0" VerticalAlignment="Top" Width="380" Style="{StaticResource MaterialDesignFlatMidBgButton}" BorderBrush="#FFA0A0A0" Foreground="#FF666666" Background="{x:Null}"/>
-        <Button x:Name="restoreBtn" Click="restoreBtn_Click" Content="Проверить целостность файлов" HorizontalAlignment="Left" Margin="10,365,0,0" VerticalAlignment="Top" Width="380" Style="{StaticResource MaterialDesignFlatMidBgButton}" BorderBrush="#FFA0A0A0" Foreground="#FF666666" Background="{x:Null}"/>
+        <Rectangle Height="364" VerticalAlignment="Top" Margin="10,50,10,0" RadiusY="10" RadiusX="10" Fill="#ffffff">
+            <Rectangle.Effect>
+                <DropShadowEffect BlurRadius="15" Direction="0" RenderingBias="Quality" ShadowDepth="1" Color="#FFBBBBBB"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <CheckBox x:Name="notifyAboutUpdateChb" HorizontalAlignment="Center" Margin="0,94,0,0" VerticalAlignment="Top" FontSize="16" Height="62" Width="374" IsChecked="True" Style="{StaticResource MaterialDesignDarkCheckBox}"  Click="notifyAboutUpdateChb_Checked" HorizontalContentAlignment="Left" ClickMode="Release" BorderThickness="1,1,1,1" ScrollViewer.HorizontalScrollBarVisibility="Auto" Grid.ColumnSpan="1"/>
+        <CheckBox x:Name="autoRestoreChb" Content="" HorizontalAlignment="Center" Margin="0,173,0,0" VerticalAlignment="Top" FontSize="16" Height="52" Width="374" IsChecked="True" Style="{StaticResource MaterialDesignDarkCheckBox}" Click="autoRestoreChb_Checked"/>
+        <Label Content="Настройки приложения" HorizontalAlignment="Center" Margin="0,50,0,0" VerticalAlignment="Top" Width="228" FontSize="20" Foreground="Black"/>
+        <Label Content="Действия" HorizontalAlignment="Center" Margin="0,263,0,0" VerticalAlignment="Top" Width="92" FontSize="20" Foreground="Black"/>
+        <Button x:Name="checkForUpdateBtn" Click="checkForUpdateBtn_Click"  Content="Проверить наличие обновлений" HorizontalAlignment="Center" Margin="0,324,0,0" VerticalAlignment="Top"  Width="332"/>
+
+        <Line X1="580" Y1="150" X2="200" Y2="150" Stroke="Black" Margin="-190,111,0,0"/>
+        <Button x:Name="restoreBtn" Content="Проверить целостность файлов" Width="332" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,361,0,0"  Click="restoreBtn_Click" Cursor="Hand"/>
+        <Label Content="Проверять наличие обновлений при &#xA; запуске приложения" HorizontalAlignment="Left" Margin="28,109,0,0" VerticalAlignment="Top" Height="50" Width="348" Foreground="Black" FontSize="16"/>
+        <Label Content="Проверять целостность файлов при &#xA; запуске приложения" HorizontalAlignment="Left" Margin="28,183,0,0" VerticalAlignment="Top" Height="50" Width="348" Foreground="Black" FontSize="16"/>
 
     </Grid>
 </Window>
